@@ -7,3 +7,6 @@ https://www.lucidchart.com/documents/edit/ebbba4f3-aba7-4b26-8837-57340cc5f72e/0
 https://code.visualstudio.com/
 https://git-scm.com/downloads
 https://www.virtualizationhowto.com/2017/08/use-git-visual-studio-code/
+
+### Project 5 Prose
+https://docs.google.com/document/d/1XUexZE0NltFaLAds2T0UZGMHaYvrUOZRP8IjOmidDjk/edit?usp=sharing
